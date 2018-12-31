@@ -1,8 +1,8 @@
 ---
 path: "/post-three"
 date: "2018-12-22"
-title: "Third post"
-author: "Zakaria"
+title: "The Third post"
+author: "Zakaria B"
 ---
 
 Third post on this blog, probably the last for now.
